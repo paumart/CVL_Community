@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CVL Community</title>
+    <description>Characterisation Virtual Laboratory Community, connecting image analysis to the Australian research cloud.</description>
+    <link>/CVL_Community/CVL_Community/</link>
+    <atom:link href="/CVL_Community/CVL_Community/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 Jul 2020 03:14:14 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2020 03:14:14 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>Events calendar internal and external</title>
+        <description>&lt;p&gt;We collect data from internal and external events, relevant to the Characterisation Community for the purpose of advertising.&lt;/p&gt;
+
+&lt;h1 id=&quot;google-calendar&quot;&gt;Google Calendar&lt;/h1&gt;
+
+&lt;iframe src=&quot;https://calendar.google.com/calendar/embed?height=400&amp;amp;wkst=1&amp;amp;bgcolor=%23ffffff&amp;amp;ctz=Australia%2FBrisbane&amp;amp;src=OTVxdWJuM25jaTJ0M3NxamszaTBvOGRhbm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;amp;color=%233F51B5&amp;amp;showPrint=0&amp;amp;showCalendars=1&amp;amp;mode=AGENDA&quot; style=&quot;border:solid 1px #777&quot; width=&quot;550&quot; height=&quot;400&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Each event is also advertised via twitter &lt;a href=&quot;https://twitter.com/Char_VirtLab&quot;&gt;@Char_VirtLab&lt;/a&gt; and on this &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/&quot;&gt;CVL Community website&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We are currently selecting events from the following National Collaborative Research Infrastructure Strategy (NCRIS) Capabilities and related projects. If you would like to add your events to our calendar, please get in touch. We also recommend you to have a look at events that might not be listed here. The calendar is currently being updated once a week.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.aarnet.edu.au/events&quot;&gt;AARNet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biocommons.org.au/events&quot;&gt;Australian Biocommons&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ardc.edu.au/events/&quot;&gt;ARDC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://micro.org.au/news-events/events/&quot;&gt;Microscopy Australia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.monash.edu/data-fluency/events&quot;&gt;Monash Data Fluency&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nesi.org.nz/community/events&quot;&gt;NeSI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pawsey.org.au/events/&quot;&gt;PAWSEY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.qcif.edu.au/training/training-courses/&quot;&gt;QCIF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://carpentries.org/upcoming_workshops/&quot;&gt;The Carpentries&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;You can email &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;Paula Andrea Martinez&lt;/a&gt; for any questions.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/eventcalendar/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/eventcalendar/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Git and GitLab</title>
+        <description>&lt;p&gt;Last updated 10 June 2020&lt;/p&gt;
+
+&lt;p&gt;Online workshop
+Date: 03 June, 2020
+Duration: 1 hour
+Centre for Advanced Imaging (CAI)
+Instructors:
+    * Dr Steffen Bollmann, 7T National Imaging Facility Fellow
+    * Dr Saskia Bollmann, UQ Postdoctoral Research Fellow&lt;/p&gt;
+
+&lt;p&gt;The workshop was targetted for the CAI community. As an introduction to Git and GitLab.&lt;/p&gt;
+
+&lt;p&gt;Feedback was great:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;“The presentation was fantastic. I loved the relaxed, 
+enthusiastic style, and the counterpoint of practical
+examples (Saskia) vs technical background and 
+terminology (Steffen) was perfectly realised. 
+I learned some features of git, history, and 
+background that I wasn't aware of.”
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/Characterisation-Virtual-Laboratory/CVL_Community/raw/master/_posts/2020UQ/CAIGit/CAI-gitlab.pptx&quot;&gt;Slides can be downloaded as pptx&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://uqz.zoom.us/rec/share/yugqJo7wq29ORs_0yxDUZ_4qIY3Eaaa81igY-vEOn00gVaJSsKW5ipTf-9PlBKCq&quot;&gt;The recording is available through AARNet&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/CAI-Git/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/CAI-Git/</guid>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>UQ - Research Data Culture </title>
+        <description>&lt;p&gt;Last updated 25 February 2020&lt;/p&gt;
+
+&lt;p&gt;Presentations
+Date: 07 Feb, 2020
+Duration: 1 day (9:00 - 5:00)
+Location: Brisbane, UQ Advanced Engineering Building
+Target Audience: UQ Research Students and EMCRs&lt;/p&gt;
+
+&lt;h2 id=&quot;research-data-culture&quot;&gt;Research Data Culture&lt;/h2&gt;
+&lt;p&gt;To be data-driven requires an overarching data culture that couples several elements, including high-quality trustable data, broad and relevant access, data literacy and fit data-driven decision-making processes.&lt;/p&gt;
+
+&lt;p&gt;As a research intensive university UQ works hard on enabling high quality research. First, our infrastructure foresees and enables data collection, data management, maintenance, archiving and security. The line items add up, but none of these would be valuable if researchers like you, don’t know what is available or how to access it.&lt;/p&gt;
+
+&lt;p&gt;The purpose of this forum is to inform the UQ research community of the resources available and invite collaboration from other research institutions.&lt;/p&gt;
+
+&lt;h3 id=&quot;program&quot;&gt;Program&lt;/h3&gt;
+
+&lt;p&gt;Speakers have made their presentations available. Here you will find resources such: Training, computing and support offerings in software, research skills, publishing and research management. Not only institutional but at a national scale too.
+Remember, if done well, a thriving data-driven team can reap huge rewards, and that is what we envision.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Topics&lt;/th&gt;
+      &lt;th&gt;Presenter&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Opening&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/orchid00&quot;&gt;Dr Paula Andrea Martinez&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Motivation - Culture Change&lt;/td&gt;
+      &lt;td&gt;Prof Graham Galloway - &lt;a href=&quot;https://twitter.com/NIFAus&quot;&gt;NIF&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UQRDM / &lt;a href=&quot;https://twitter.com/UQ_library&quot;&gt;Library&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Cassandra Graesser - Introduction to the UQ Research Data Manager&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Computing resources UQ/QLD, RCC/QCIF&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/HankelMarlies&quot;&gt;Dr Marlies Hankel&lt;/a&gt; - &lt;a href=&quot;https://twitter.com/RCCUQ&quot;&gt;Research Computing Centre&lt;/a&gt; / &lt;a href=&quot;https://twitter.com/qcifltd/&quot;&gt;Queensland Cyber Infrastructure Foundation&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Morning tea break&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Data intensive science example&lt;/td&gt;
+      &lt;td&gt;Samual MacDonald - Preserving scientific integrity in deep learning&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;National Computing resources: &lt;a href=&quot;https://twitter.com/NCInews&quot;&gt;NCI&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/PawseyCentre&quot;&gt;Pawsey&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/eResearchMonash&quot;&gt;MASSIVE&lt;/a&gt;, NCMAS&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/mignon1915&quot;&gt;Jane Frazier&lt;/a&gt; - National High Performance Computing Capabilities&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Responsible Research Panel&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://twitter.com/FGacenga&quot;&gt;Dr Francis Gagenga&lt;/a&gt;, Samual MacDonald, Jane Frazier, &lt;a href=&quot;https://twitter.com/dannykay68&quot;&gt;Dr Danny Kingsley&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Afternoon workshops&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Topics&lt;/th&gt;
+      &lt;th&gt;Presenter&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UQ Research Data Manager - For questions email  &lt;a href=&quot;data@library.uq.edu.au&quot;&gt;data@library.uq.edu.au&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Fei Yu - UQ RDM workshop - for UQ researchers&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Reproducibility steps&lt;/td&gt;
+      &lt;td&gt;Paula Andrea Martinez - &lt;a href=&quot;https://gitpitch.com/orchid00/ReproducibleResearchThings/gh-pages#/1&quot;&gt;Reproducible Research Workshop&lt;/a&gt; - for everyone&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;presentations&quot;&gt;Presentations&lt;/h3&gt;
+
+&lt;p&gt;All presentations from the morning have been made available via &lt;a href=&quot;https://osf.io/645vc/&quot;&gt;OSF&lt;/a&gt; look at the tab of files, you can download individual files or a zip containing all the presentations.&lt;/p&gt;
+
+&lt;h2 id=&quot;contact&quot;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;You can email &lt;a href=&quot;p.martinez@uq.edu.au&quot;&gt;Paula Andrea Martinez&lt;/a&gt; for any questions.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/Research-Data-Culture/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/Research-Data-Culture/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>champions</category>
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana - Materials</title>
+        <description>&lt;p&gt;Last updated 19 November 2019&lt;/p&gt;
+
+&lt;p&gt;Hands-on workshop
+Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
+Duration: 1 day (9:30 - 5:00)
+Proposed Location: Melbourne, Swinburne University
+Advanced Technologies Centre
+Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
+
+&lt;h1 id=&quot;automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana&quot;&gt;Automating neuroimaging analysis workflows with Nipype, Arcana and Banana&lt;/h1&gt;
+
+&lt;p&gt;Analysis of neuroimaging-research data uses many software tools (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy). This makes constructing complete workflows challenging as it requires not only the relevant scientific knowledge but also familiarity with the syntax and options of each of the tools involved.&lt;/p&gt;
+
+&lt;p&gt;This workshop shows how to wrap neuroimaging tools within consistent interfaces and link them together into robust workflows using the &lt;a href=&quot;https://nipy.org/packages/nipype/index.html&quot;&gt;Nipype&lt;/a&gt; Python package.&lt;/p&gt;
+
+&lt;p&gt;In the last part of the course, participants will learn how to extend and customise the classes in Banana to the specific needs of their own analysis, and apply these workflows to project data stored in BIDS datasets. Then finally, how workflows can be automated for data stored in XNAT repositories by encapsulating them within Docker containers and using XNAT’s “container service”.&lt;/p&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;p&gt;All the materials and instructions to run the code are provided &lt;a href=&quot;https://nbviewer.jupyter.org/github/MonashBI/nipype_arcana_workshop/blob/master/program.ipynb&quot; target=&quot;_blank&quot;&gt;https://nbviewer.jupyter.org/github/MonashBI/nipype_arcana_workshop/blob/master/program.ipynb&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proficiency in Python programming, or programming in general and familiarity with object-oriented concepts.&lt;/li&gt;
+  &lt;li&gt;A conceptual understanding of container technology (i.e. Docker/Singularity) would be beneficial.&lt;/li&gt;
+  &lt;li&gt;Some familiarity with the function of standard neuroimaging toolkits (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy) would be good but not strictly necessary.&lt;/li&gt;
+  &lt;li&gt;An account on CVL@MASSIVE is the recommended.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cvlmassive-projects&quot;&gt;CVL@MASSIVE projects&lt;/h2&gt;
+
+&lt;p&gt;If you are or want to become a new user to CVL@MASSIVE we would like to encourage you to apply for a new project
+or join an existing one to continue using the CVL.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you are a principal investigator or a project manager please send a project request to MASSIVE by filling out the following form&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://forms.gle/GUktMZPKUHLsMGNT8&quot;&gt;https://forms.gle/GUktMZPKUHLsMGNT8&lt;/a&gt;. You will get a response in about 3 working days.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;If you are a student or research assistant you need your supervisor or manager to get a project first,
+they can then give you the project code to join.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For further details on how to do this, please refer to &lt;a href=&quot;https://www.cvl.org.au/cvl-desktop/cvl-accounts&quot; target=&quot;_blank&quot;&gt;https://www.cvl.org.au/cvl-desktop/cvl-accounts&lt;/a&gt;.
+This page contains account, project and password information. It is important to notice that all members of a project have
+read permission on it.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-event&quot;&gt;Next event&lt;/h2&gt;
+
+&lt;p&gt;We are planning to run this workshop in Sydney (2020), if you know of anyone who would be interested, please get in touch.&lt;/p&gt;
+
+&lt;h2 id=&quot;tweet&quot;&gt;tweet&lt;/h2&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Full room &amp;quot;automating neuroimaging analysis workflows&amp;quot; &lt;a href=&quot;https://twitter.com/Swinburne?ref_src=twsrc%5Etfw&quot;&gt;@Swinburne&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Mon_Bio_Imaging?ref_src=twsrc%5Etfw&quot;&gt;@Mon_Bio_Imaging&lt;/a&gt; &lt;a href=&quot;https://twitter.com/AlfredHealth?ref_src=twsrc%5Etfw&quot;&gt;@AlfredHealth&lt;/a&gt; &lt;a href=&quot;https://twitter.com/Deakin?ref_src=twsrc%5Etfw&quot;&gt;@Deakin&lt;/a&gt; &lt;a href=&quot;https://twitter.com/UQ_CAI?ref_src=twsrc%5Etfw&quot;&gt;@UQ_CAI&lt;/a&gt; &lt;a href=&quot;https://twitter.com/TheFlorey?ref_src=twsrc%5Etfw&quot;&gt;@TheFlorey&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MonashUni?ref_src=twsrc%5Etfw&quot;&gt;@MonashUni&lt;/a&gt; &lt;a href=&quot;https://twitter.com/VicBioImaging?ref_src=twsrc%5Etfw&quot;&gt;@VicBioImaging&lt;/a&gt; and more &lt;a href=&quot;https://t.co/C8gPQklMzh&quot;&gt;pic.twitter.com/C8gPQklMzh&lt;/a&gt;&lt;/p&gt;&amp;mdash; CharacterisationVL Communications (@Char_VirtLab) &lt;a href=&quot;https://twitter.com/Char_VirtLab/status/1195172603863826432?ref_src=twsrc%5Etfw&quot;&gt;November 15, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely
+and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; who support training
+and best data management practices.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/workflowsnov/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/workflowsnov/</guid>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Sensitive data</title>
+        <description>&lt;p&gt;This presentation is part of the eResearch Diversity conference. Developing an Australasian XNAT Roadmap Workshop held on 25 Oct, 2019.&lt;/p&gt;
+
+&lt;p&gt;Last updated 25 October 2019&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;We joined the event by providing a presentation for the community to discuss about FAIR for sensitive data.&lt;/p&gt;
+
+&lt;h2 id=&quot;materials-and-resources&quot;&gt;Materials and resources&lt;/h2&gt;
+
+&lt;p&gt;Have a look at the &lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vRy7gujjTTv66hUsS-oOJ_JFjAgabeK0UNq1EmdC8FIdit5TtXoyFuq-ZP8BIiJoqWVw4J1DV0YfRFm/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;suggested-resources&quot;&gt;Suggested Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Go FAIR principles www.go-fair.org/fair-principles&lt;/li&gt;
+  &lt;li&gt;ANDS Publishing and sharing sensitive data www.ands.org.au/guides/sensitivedata&lt;/li&gt;
+  &lt;li&gt;OpenAIRE How to deal with sensitive data www.openaire.eu/sensitive-data-guide&lt;/li&gt;
+  &lt;li&gt;Top 10 FAIR for Imaging librarycarpentry.org/Top-10-FAIR/2019/06/27/imaging&lt;/li&gt;
+  &lt;li&gt;Turning FAIR into reality, EC publications.europa.eu/s/m9l4&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;who-to-reach-with-questions&quot;&gt;Who to reach with questions?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Paula Andrea Martinez / Characterisation Training Coordinator - National Imaging Facility / p.martinez at uq.edu.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/sensitivedata/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/sensitivedata/</guid>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Microscopy Australia FAIR information session</title>
+        <description>&lt;h1 id=&quot;microscopy-australia-fair-information-session&quot;&gt;Microscopy Australia FAIR information session&lt;/h1&gt;
+
+&lt;p&gt;Last updated 17 oct, 2019&lt;/p&gt;
+
+&lt;p&gt;The Microscopy Australia Annual Meeting was held between 15-17 October gathering about a 100 people from this community. At this event an information session about FAIR took place on Oct 16th.&lt;/p&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presentation &lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vSHdTy8V9aZNzcARGzaJ8_e0FtHgtVVEL_90HUrf51L47RQPagrQx4ijYZXyj0FLf-DJPgVxwR1k2Zp/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; target=&quot;_blank&quot;&gt;Actionable ways to improve FAIR in our communities&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you need information about the CVL: &lt;a href=&quot;https://demo.codimd.org/p/SJlh1PQAV#/&quot; target=&quot;_blank&quot;&gt;The Characterisation Virtual Laboratory&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Last updated 17 oct, 2019&lt;/p&gt;
+</description>
+        <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/MA-FAIR/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/MA-FAIR/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>UQ Showcase FAIR discussion</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://research.uq.edu.au/research-capabilities-showcase&quot;&gt;UQ Research Showcase&lt;/a&gt; was a University event held on 20 Sept, 2019.&lt;/p&gt;
+
+&lt;p&gt;Last updated 27 Sept 2019&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;The National Imaging Facility’s Center for Advanced Imaging node at the University of Queensland was part of the &lt;a href=&quot;https://research.uq.edu.au/research-capabilities-showcase&quot;&gt;UQ Research Showcase&lt;/a&gt;.
+We joined the event by providing two workshops for the community to discuss about FAIR for data and software.&lt;/p&gt;
+
+&lt;h2 id=&quot;workshop-agenda&quot;&gt;Workshop agenda&lt;/h2&gt;
+
+&lt;p&gt;Each workshop went for about 1 hour.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Welcome and Intro (5min)&lt;/li&gt;
+  &lt;li&gt;Let’s explain FAIR (15min)&lt;/li&gt;
+  &lt;li&gt;Group discussion (40min)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials-and-resources&quot;&gt;Materials and resources&lt;/h2&gt;
+
+&lt;p&gt;Have a look at the &lt;a href=&quot;https://docs.google.com/presentation/d/e/2PACX-1vTOFsVjY6qwowBMMbF7FEKdOI5OZcTmm33ifn1pAEpHjiA79bW8filT1juQJwtszg-Pbfr-01g3yzNp/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;suggested-resources&quot;&gt;Suggested Resources&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Go FAIR principles &lt;a href=&quot;https://www.go-fair.org/fair-principles/&quot;&gt;https://www.go-fair.org/fair-principles/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;FAIRsharing standards &lt;a href=&quot;https://fairsharing.org/standards/&quot;&gt;https://fairsharing.org/standards/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Top 10 FAIR domain specific guides &lt;a href=&quot;https://doi.org/10.5281/zenodo.3409968&quot;&gt;https://doi.org/10.5281/zenodo.3409968&lt;/a&gt; and &lt;a href=&quot;https://librarycarpentry.org/Top-10-FAIR/&quot;&gt;website&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;How FAIR is your data checklist &lt;a href=&quot;http://doi.org/10.5281/zenodo.1065991&quot;&gt;http://doi.org/10.5281/zenodo.1065991&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zotero.org/orchid00/items&quot;&gt;List of references related to FAIR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;who-to-reach-for-questions&quot;&gt;Who to reach for questions?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Paula Andrea Martinez / Characterisation Training Coordinator - National Imaging Facility / p.martinez at uq.edu.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/FAIR-UQ/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/FAIR-UQ/</guid>
+        
+        
+        <category>FAIR</category>
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>FIJI intro workshop</title>
+        <description>&lt;h1 id=&quot;cmm-introduction-to-fiji&quot;&gt;CMM introduction to FIJI&lt;/h1&gt;
+
+&lt;p&gt;Last updated 5 September 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com.au/e/using-fiji-for-image-analysis-registration-61459002531&quot;&gt;Registration page&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.google.com/maps/place/Duhig+Tower/@-27.4965561,153.0143822,20z&quot;&gt;Location: Duhig Tower level 5&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for registering for the FIJI intro workshop. This is part of the Characterisation Data Enhanced project with the aim of building national awareness of data management and analysis capability and capacity.&lt;/p&gt;
+
+&lt;p&gt;We aim to use this space to answer your especific questions about data analysis in microscopy using FIJI and offer you tools to do so. We will try as best as possible to cover the basics. If you are looking for more advaced ways to use FIJI as analysis tool, please refer to the &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/other-tutorials/&quot;&gt;CVL community website for a list of online tutorials&lt;/a&gt;, which includes a link to Cameron’s FIJI user manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-fiji-during-the-workshop&quot;&gt;Using FIJI during the workshop&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make sure to bring your laptop with FIJI installed or have accessed the CVL, once before.&lt;/li&gt;
+  &lt;li&gt;You can download sample data provided by Matthias, if you are using your own laptop.&lt;/li&gt;
+  &lt;li&gt;We would ask you to kindly work in pairs with anyone who is not able to bring a laptop or who did not request a CVL account before hand.&lt;/li&gt;
+  &lt;li&gt;If you are using the CVL at awoonga we highly recommend you to become familiar with the &lt;a href=&quot;https://www.qriscloud.org.au/support/qriscloud-documentation/92-awoonga-user-guide&quot;&gt;Awoonga user guide&lt;/a&gt; and ask questions if you need.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;instructor&quot;&gt;Instructor&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cameron Novell from Monash University&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudstor.aarnet.edu.au/plus/s/NzLifYbQdDb43Fq&quot;&gt;FIJI manual by Cameron Nowell&lt;/a&gt; and &lt;a href=&quot;https://cloudstor.aarnet.edu.au/plus/s/3tutoG9lAYPFC4v&quot;&gt;images&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;Nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; who support each other in training and best practices.&lt;/p&gt;
+
+&lt;h3 id=&quot;using-cvl-at-awoonga&quot;&gt;Using CVL at Awoonga&lt;/h3&gt;
+
+&lt;p&gt;Each Awoonga user is allocated a directory on the /30days file system. The main purpose is to hold large datasets on a temporary basis while you are computing against them.
+Create a project directory in this folder for analysis, and read more about Awoonga &lt;a href=&quot;https://www.qriscloud.org.au/support/qriscloud-documentation/92-awoonga-user-guide&quot;&gt;user guide&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/FIJIintro/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/FIJIintro/</guid>
+        
+        <category>external</category>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+      <item>
+        <title>Scholarships</title>
+        <description>&lt;p&gt;Scholarships for researchers in Australia, working with complex image analysis (characterisation).&lt;/p&gt;
+
+&lt;h1 id=&quot;scholarships&quot;&gt;Scholarships&lt;/h1&gt;
+&lt;p&gt;To help you attend a workshop, the CDeVL project
+ (Characterisation Data Enhanced Virtual Laboratory) is organising scholarships.&lt;/p&gt;
+
+&lt;h2 id=&quot;application&quot;&gt;Application&lt;/h2&gt;
+
+&lt;p&gt;Researchers in Australia, working with complex image analysis (characterisation) may apply for a scholarship (&lt;strong&gt;at least 3 weeks before the event&lt;/strong&gt;). Applications are considered  based on motivation to attend and how people might then champion what they have learned during the workshop. Please answer the following questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Name and date of the workshop&lt;/li&gt;
+  &lt;li&gt;Brief research domain, career level, institution&lt;/li&gt;
+  &lt;li&gt;What is your motivation for attending this workshop?&lt;/li&gt;
+  &lt;li&gt;Brief reasons why you need to apply for a scholarhsip.&lt;/li&gt;
+  &lt;li&gt;How your attendance will make a difference to your career and research?&lt;/li&gt;
+  &lt;li&gt;How do you intent to share your experience after the workshop? for example, instruct or facilitate a workshop (in the following 6 months) or send a video or short story (a month after the workshop).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;Please email your application&lt;/a&gt; as soon as possible. &lt;strong&gt;For the MRtrix3 workshop applications close on March 23rd, 2020&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;selection&quot;&gt;Selection&lt;/h2&gt;
+
+&lt;p&gt;The organisers will select the recipients of scholarhsips as applications come, and will close to review 3 weeks before the event.
+Selection is based on your current work or study, your motivation for applying, the reasons for needing financial support and the impact this event will have on your career and how you might share outcomes. Incomplete applications won’t be assessed.&lt;/p&gt;
+
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+&lt;p&gt;Results will be announced 3 weeks before the event start date, however for some events this may be delayed.
+&lt;strong&gt;Selection results do not impact your admission to the workshop.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Aug 2019 02:06:12 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/scholarships/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/scholarships/</guid>
+        
+        
+        <category>champions</category>
+        
+      </item>
+    
+      <item>
+        <title>Automating neuroimaging analysis workflows with Nipype, Arcana and Banana - Invitation</title>
+        <description>&lt;p&gt;Last updated 28 August 2019&lt;/p&gt;
+
+&lt;p&gt;Hands-on workshop
+Date: 15 November, 2019 (after the VBIC Annual Network Meeting)
+Duration: 1 day (9:30 - 5:00)
+Proposed Location: Melbourne, TBA
+Instructor: Thomas Close from Monash Biomedical Imaging&lt;/p&gt;
+
+&lt;p&gt;This is an invitation for a hands on workshop, &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;travel scholarships are available (apply before Oct 4th)&lt;/a&gt;. If you would like more information about this, please &lt;a href=&quot;mailto:p.martinez@uq.edu.au&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana&quot;&gt;Automating neuroimaging analysis workflows with Nipype, Arcana and Banana&lt;/h1&gt;
+
+&lt;p&gt;Analysis of neuroimaging-research data involves the sequential application of algorithms implemented in a number of heterogeneous toolkits (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy). This makes constructing complete workflows challenging as it requires not only the relevant scientific knowledge but also familiarity with the syntax and options of each of the tools involved.&lt;/p&gt;
+
+&lt;p&gt;The workshop will show how to wrap neuroimaging tools within consistent interfaces and link them together into robust workflows using the &lt;a href=&quot;https://nipy.org/packages/nipype/index.html&quot;&gt;Nipype&lt;/a&gt; Python package. Participants will then be shown how common components of these analysis workflows can be consolidated within object-oriented base classes using the Abstraction of Repository Centric ANAlysis (Arcana) (&lt;a href=&quot;http://arcana.readthedocs.io&quot;&gt;http://arcana.readthedocs.io&lt;/a&gt;) framework, and how this is used in the Brain imAgiNg Analysis iN Arcana (&lt;a href=&quot;https://github.com/MonashBI/banana&quot;&gt;Banana&lt;/a&gt;) package to capture the arcana (obscure knowledge) of neuroimaging analysis workflow design.&lt;/p&gt;
+
+&lt;p&gt;In the last part of the course, participants will learn how to extend and customise the classes in Banana to the specific needs of their own analysis, and apply these workflows to project data stored in BIDS datasets. Then finally, how workflows can be automated for data stored in XNAT repositories by encapsulating them within Docker containers and using XNAT’s “container service”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;Registration &lt;a href=&quot;https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available, apply before Oct 4th&lt;/a&gt;, follow the link for instructions on how to apply.&lt;/p&gt;
+
+&lt;h2 id=&quot;pre-requisites&quot;&gt;Pre-requisites&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Proficiency in Python programming, or programming in general and familiarity with object-oriented concepts.&lt;/li&gt;
+  &lt;li&gt;A conceptual understanding of container technology (i.e. Docker/Singularity) would be beneficial.&lt;/li&gt;
+  &lt;li&gt;Some familiarity with the function of standard neuroimaging toolkits (e.g. FSL, SPM, MRTrix, ANTs, AFNI, DiPy) would be good but not strictly necessary.&lt;/li&gt;
+  &lt;li&gt;An account on MASSIVE/CVL.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;details&quot;&gt;Details&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Freely available datasets will be used for this workshop.&lt;/li&gt;
+  &lt;li&gt;Date: 15 November, 2019 (after the &lt;a href=&quot;https://mailchi.mp/971744c85b21/save-the-date-annual-vbic-network-meeting-14-november-2019&quot;&gt;VBIC Annual Network Meeting&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Duration: 1 day (9:30 - 5:00)&lt;/li&gt;
+  &lt;li&gt;Location: Melbourne&lt;/li&gt;
+  &lt;li&gt;Instructor: Thomas Close from MBI (Monash Biomedical Imaging)&lt;/li&gt;
+  &lt;li&gt;Registration &lt;a href=&quot;https://www.eventbrite.com.au/e/automating-neuroimaging-analysis-workflows-with-nipype-arcana-and-banana-registration-69832758661?aff=eoi1&quot;&gt;link&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/scholarships/&quot;&gt;Travel scholarships are available, apply before Oct 4th&lt;/a&gt; for those who would need to travel to Melbourne to attend.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;characterisation-virtual-laboratory-cvl&quot;&gt;Characterisation Virtual Laboratory (CVL)&lt;/h2&gt;
+
+&lt;p&gt;The CVL is a nationally funded software infrastructure collaboration
+to make scientific tools for image analysis and processing, available freely
+and cloud-ready. The &lt;a href=&quot;https://characterisation-virtual-laboratory.github.io/CVL_Community/about&quot;&gt;CVL is also a community&lt;/a&gt; who support training
+and best data management practices.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+        <link>/CVL_Community/CVL_Community/workflows_proposal/</link>
+        <guid isPermaLink="true">/CVL_Community/CVL_Community/workflows_proposal/</guid>
+        
+        
+        <category>tutorial</category>
+        
+      </item>
+    
+  </channel>
+</rss>
